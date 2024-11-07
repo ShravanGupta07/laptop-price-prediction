@@ -29,9 +29,7 @@ To run this project locally, follow these steps:
 
 ### Steps
 
-1. Clone the repository:
-   git clone https://github.com/your-username/laptop-price-predictor.git
-   cd laptop-price-predictor
+1. Clone the repository
 2. Download the model and dataset pickle files (pipe.pkl and df.pkl) and place them in the project directory.
 3. Run the Streamlit app:
     streamlit run app.py
@@ -49,4 +47,3 @@ To run this project locally, follow these steps:
 2. The app processes these inputs and uses a machine learning model to predict the laptop's price.
 3. The prediction is based on a pre-trained model stored in the pipe.pkl file, which was trained on historical laptop data.
 
-![ALT text](Screenshot 2024-11-07 234048.png)
