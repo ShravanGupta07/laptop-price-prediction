@@ -49,3 +49,4 @@ To run this project locally, follow these steps:
 2. The app processes these inputs and uses a machine learning model to predict the laptop's price.
 3. The prediction is based on a pre-trained model stored in the pipe.pkl file, which was trained on historical laptop data.
 
+![ALT text](Screenshot 2024-11-07 234048.png)
